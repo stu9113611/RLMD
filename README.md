@@ -47,7 +47,7 @@ To be continued...
 
 ## Download
 
-Please download the dataset from [here](https://ccu365-my.sharepoint.com/personal/611415043_office365_ccu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F611415043%5Foffice365%5Fccu%5Fedu%5Ftw%2FDocuments%2FRLMD%5F2138&ga=1).
+Please download the dataset from [here](https://drive.google.com/drive/folders/18-Lnz2MaPQWSOJ8aK1ikkwXLLdjImYOA?usp=sharing).
 
 The original images & annotations are in 4K resolution, and will be uploaded soon...
 
