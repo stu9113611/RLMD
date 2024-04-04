@@ -12,7 +12,7 @@ This repository contains dataset download link and supporting code for our paper
 
 ## Introduction
 
-RLMD is a road line and marking semantic segmentation dataset containing 2138 driving scene images and annotations. The annotations is manually annotated with 25 categories and saved in polygon mask format. Information about the categories is shown bellow, or you can download the [csv](https://github.com/stu9113611/RLMD/blob/main/classes.csv).
+RLMD is a road line and marking semantic segmentation dataset containing 2137 driving scene images and annotations. The annotations is manually annotated with 25 categories and saved in polygon mask format. Information about the categories is shown bellow, or you can download the [csv](https://github.com/stu9113611/RLMD/blob/main/classes.csv).
 
 |id |name                |abbr|r  |g  |b  |
 |---|--------------------|----|---|---|---|
