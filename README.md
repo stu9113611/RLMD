@@ -1,16 +1,18 @@
-# Road Line and Marking Dataset
+# Road Line and Marking Segmentation Dataset (RLMD)
 
 ![image](https://github.com/stu9113611/RLMD/blob/main/teaser.png)
 
-This repository contains dataset download link and supporting code for our paper [RLMD: A Dataset for Road Marking Segmentation](https://ieeexplore.ieee.org/document/10226935).
+This repository contains dataset download link and additional information for our paper [RLMD: A Dataset for Road Marking Segmentation](https://ieeexplore.ieee.org/document/10226935).
 
 ## Table of Contents
 1. [Introduction](#introduction)
 1. [Download](#download)
-1. [Evaluation](#evaluation)
 1. [Citation](#citation)
 
 ## Introduction
+
+**[Imoprtant Update]**\
+The extensive version of RLMD has been released. **RLMD-AC** contains more data collected under night and rainy conditions (unlabeled for training sets, labeled for testing sets). Please goto the download section.
 
 RLMD is a road line and marking semantic segmentation dataset containing 2137 driving scene images and annotations. The annotations is manually annotated with 25 categories and saved in polygon mask format. Information about the categories is shown bellow, or you can download the [csv](https://github.com/stu9113611/RLMD/blob/main/classes.csv).
 
@@ -42,19 +44,10 @@ RLMD is a road line and marking semantic segmentation dataset containing 2137 dr
 |23 |bike icon           |BI  |3  |164|204|
 |24 |parking lot         |PL  |175|157|185|
 
-To be continued...
-
-
 ## Download
 
-Please download the dataset from [here](https://drive.google.com/drive/folders/18-Lnz2MaPQWSOJ8aK1ikkwXLLdjImYOA?usp=sharing).
-
-The original images & annotations are in 4K resolution, and will be uploaded soon...
-
-## Evaluation
-
-To be continued...
-
+Please download the RLMD dataset from [here](https://drive.google.com/drive/folders/18-Lnz2MaPQWSOJ8aK1ikkwXLLdjImYOA?usp=sharing).\
+Please download the RLMD-AC dataset from [here](https://drive.google.com/drive/folders/1ZVxIanHEPq5gPjDbKlmZV3K99SsM1NT-?usp=sharing)
 
 ## Citation
 
